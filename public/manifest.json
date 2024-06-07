@@ -1,0 +1,52 @@
+{
+  "name": "pwa test",
+  "short_name": "pwa tst",
+  "theme_color": "#317ad8",
+  "background_color": "#2EC6FE",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Compress and compare images with different codecs right in your browser.",
+  "scope": "/",
+  "lang": "ru-RU",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "sizes": "284x284",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.pinimg.com/originals/a9/88/c1/a988c1bf6e66482d5292e2c0c52f2dde.gif",
+      "sizes": "320x640",
+      "type": "image/gif"
+    },
+    {
+      "src": "https://i.pinimg.com/originals/a9/88/c1/a988c1bf6e66482d5292e2c0c52f2dde.gif",
+      "sizes": "320x640",
+      "form_factor": "wide",
+      "type": "image/gif"
+    }
+  ]
+}
